@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Notebooks & artifacts
+.ipynb_checkpoints
+/data/
+/models/
+/submissions/
+/logs/
+*.h5
+.kaggle/
+kaggle.json
