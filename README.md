@@ -12,6 +12,8 @@ How to run:
 1. Follow ENVIRONMENT.md to setup (Colab recommended)
 2. Put kaggle.json in ~/.kaggle and run the dataset download from the competition page. See DATA.md
 
+Note: Refer to data and final lag-features data in drive link below.
+
 ## EDA
 Quick recap (what you just explored)
 You checked shapes, date coverage, duplicates.
