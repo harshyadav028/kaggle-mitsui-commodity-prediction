@@ -9,3 +9,6 @@
      kaggle competitions download -c mitsui-commodity-prediction-challenge -p /content/data
      unzip -q /content/data/*.zip -d /content/data
 3. DO NOT commit kaggle.json or raw data to git.
+
+# Files
+train.csv: 
